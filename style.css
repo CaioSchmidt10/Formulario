@@ -1,0 +1,31 @@
+.principal{
+    background-color: aqua;
+    width: 50%;
+    height: 600px;
+    margin-left: 10px;
+}
+
+h1{
+    color: darkblue;
+    position: static;
+    top: 10px;
+}
+
+.padding1{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-style: oblique;
+    color: darkblue;
+    box-shadow: 10px;
+}
+
+.position1{
+    position: absolute;
+    left: 350px;
+    top: 60px;
+}
+
+.position2{
+    position: fixed;
+}
